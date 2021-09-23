@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Welcome to the *Self-Authoring *blog.\n\nI am excited and inspired by what the future holds in the brave new world of the information-driven  age.\n\nI am hoping that *Self Authoring* will attract other voices around the Youth community.please email your thought through  ideas to <mosesgikings@gmail.com>.\n\nI welcome comments from all readers and encourage discussion.",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-23T19:17:09+03:00"
+    },
+    {
+      "path": "Blog.html",
+      "title": "Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-23T19:17:11+03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "SELF AUTHORING",
+      "description": "Welcome to the website.Exploring  I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-09-23T19:17:14+03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

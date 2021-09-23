@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2021-09-22-bible-study/",
+    "title": "BIBLE STUDY",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Unknown",
+        "url": {}
+      }
+    ],
+    "date": "2021-09-22",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-22T22:42:23+03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-09-22-pomodoro-reading/",
+    "title": "Pomodoro Reading",
+    "description": "How to read anything fast.",
+    "author": [
+      {
+        "name": "Martin",
+        "url": {}
+      }
+    ],
+    "date": "2021-09-22",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-09-22T22:39:56+03:00",
+    "input_file": {}
+  }
+]
