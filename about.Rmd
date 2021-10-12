@@ -1,0 +1,42 @@
+---
+title: "About this site"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+description: |
+  Welcome to the *Self-Authoring *blog.
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css, echo=FALSE}
+@font-face {
+    font-family: 'FantasqueSansMonoRegular'; 
+    src: url('fantasquesansmono-regular.otf') format("opentype");
+}
+* { font-family: 'FantasqueSansMonoRegular'; }
+```
+
+`r emo::ji("chart_with_upwards_trend")` SELF AUTHORING
+
+ I am excited and inspired by what the future holds in the brave new world of the information-driven  age.
+
+`r emo::ji("fallen_leaf")` CONNECT 
+
+  
+  Its a hurly burly life we lead.Time to strip away complexity and find a little clarity .I am hoping that *Self Authoring* will attract other voices around the Youth community.This is just a simple space with room to think.
+  
+
+`r emo::ji("earth")` GLOBALLY
+
+ I welcome comments from all readers and encourage discussion.
+
+`r emo::ji("microscope")` SPECULATE
+
+`r emo::ji("man_technologist")`DATA SCIENTIST
+
+`r emo::ji("copyright")` MARTIN 2021
+

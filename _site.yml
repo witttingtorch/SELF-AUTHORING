@@ -1,0 +1,16 @@
+name: "Website"
+title: "SELF AUTHORING"
+description: |
+  SELF AUTHORING
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Blog"
+      href: Blog.html
+share: [twitter, linkedin]
+output: distill::distill_article
+theme: Self.css

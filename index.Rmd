@@ -1,0 +1,42 @@
+---
+title: "REASIGNED THOUGHTS"
+image: "datamartin.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: Twitter
+    url: "https://twitter.com/ijeamaka_a"
+  - label: GitHub
+    url: "https://github.com/Ijeamakaanyene"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ijeamaka-anyene-303a16a0/"
+  - label: Shop
+    url: "https://www.etsy.com/shop/ArtSnacksPrints"
+  - label: Email
+    url: "mailto:mosesmartin1.618@gmail.com"
+description: |
+  Welcome to the website.I hope you enjoy it!
+  An Amalgation of my personal work and partly professional work,including but     not limited to video tutorial,skill share and master class subscription
+  
+  
+site: distill::distill_website
+output:
+  postcards::onofre
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+## MOTIVE
+
+To walk Beyond the fixed mindset to the growth mindest
+
+## Contact
+
+The easiest way to contact me, If you are interested in having me lead a training, feel free to [email me](mailto:mosesmartin1.618@gmail.com).
